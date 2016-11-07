@@ -1,5 +1,6 @@
 ### Pelican files
 srv.pid
 pelican.pid
+pelicanconf.pyc
 
 output/
