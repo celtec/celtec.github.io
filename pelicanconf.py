@@ -40,8 +40,8 @@ NEST_CSS_MINIFY = True
 # Add items to top menu before pages
 MENUITEMS = [('Jobs', '/'),('About','/about.html')]
 # Add header background image from content/images : 'background.jpg'
-NEST_HEADER_IMAGES = ''
-NEST_HEADER_LOGO = '/images/logo.png'
+NEST_HEADER_IMAGES = 'banner-homepage.jpg'
+NEST_HEADER_LOGO = '/images/logo_celtec.png'
 # Footer
 #NEST_SITEMAP_COLUMN_TITLE = u'Sitemap'
 NEST_SOCIAL_COLUMN_TITLE = u'Social'
