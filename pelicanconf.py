@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Celtec Rastreamento'
-SITENAME = u'Celtec Jobs'
+SITENAME = u'Celtec Rastreamento'
 SITEURL = ''
 
 PATH = 'content'
@@ -38,7 +38,7 @@ SITESUBTITLE = u'Celtec Rastreamento Jobs'
 # Minified CSS
 NEST_CSS_MINIFY = True
 # Add items to top menu before pages
-MENUITEMS = [('Jobs', '/'),('About','/about.html')]
+MENUITEMS = [('Jobs', '/category/open-positions.html'),('About','/about.html')]
 # Add header background image from content/images : 'background.jpg'
 NEST_HEADER_IMAGES = 'banner-homepage.jpg'
 NEST_HEADER_LOGO = '/images/logo_celtec.png'
