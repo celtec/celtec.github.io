@@ -26,4 +26,4 @@ Your opinion and suggestion are always considered. For these reasons, team membe
 
 ## Interested?
 
-Check our [Open positions](/category/open-positions.html) page.
+Check our [Open positions](|category|open-positions) page.
