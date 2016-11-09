@@ -1,5 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Celtec Rastreamento</title><link href="https://celtec.github.io/" rel="alternate"></link><link href="https://celtec.github.io/feeds/open-positions.atom.xml" rel="self"></link><id>https://celtec.github.io/</id><updated>2016-11-07T10:00:00-02:00</updated><entry><title>Full stack developer</title><link href="https://celtec.github.io/full-stack-developer.html" rel="alternate"></link><published>2016-11-07T10:00:00-02:00</published><updated>2016-11-07T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2016-11-07:full-stack-developer.html</id><summary type="html">&lt;h2&gt;Full stack developer&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Celtec Rastreamento</title><link href="https://celtec.github.io/" rel="alternate"></link><link href="https://celtec.github.io/feeds/open-positions.atom.xml" rel="self"></link><id>https://celtec.github.io/</id><updated>2016-11-09T10:00:00-02:00</updated><entry><title>Front-end developer</title><link href="https://celtec.github.io/front-end-developer.html" rel="alternate"></link><published>2016-11-09T10:00:00-02:00</published><updated>2016-11-09T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2016-11-09:front-end-developer.html</id><summary type="html">&lt;h2&gt;Front-end developer&lt;/h2&gt;
+&lt;h4&gt;Responsibilities&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop and maintain client-side in Ruby on Rails applications&lt;/li&gt;
+&lt;li&gt;Writing and reviewing application code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Qualifications&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;2+ years experience working on the backend of a web application&lt;/li&gt;
+&lt;li&gt;Solid knowledge of testing principles&lt;/li&gt;
+&lt;li&gt;Strong verbal and written communication skills&lt;/li&gt;
+&lt;li&gt;Ability to work in GNU/Linux environment&lt;/li&gt;
+&lt;li&gt;Experience in Version Control Systems is a must, specifically Git&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Bonus&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Client-side testing (Jasmine, Mocha, Chai or Jest)&lt;/li&gt;
+&lt;li&gt;jQuery&lt;/li&gt;
+&lt;li&gt;Backbone.js&lt;/li&gt;
+&lt;li&gt;React.js&lt;/li&gt;
+&lt;li&gt;Ruby on Rails&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Our stack&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ruby&lt;/li&gt;
+&lt;li&gt;Rails&lt;/li&gt;
+&lt;li&gt;Sinatra&lt;/li&gt;
+&lt;li&gt;PostgreSQL and PostGIS&lt;/li&gt;
+&lt;li&gt;Javascript&lt;/li&gt;
+&lt;li&gt;Coffeescript&lt;/li&gt;
+&lt;li&gt;RabbitMQ&lt;/li&gt;
+&lt;li&gt;Resque&lt;/li&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;li&gt;Google Maps API&lt;/li&gt;
+&lt;li&gt;Backbone.js&lt;/li&gt;
+&lt;li&gt;Sass&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;Linux&lt;/li&gt;
+&lt;li&gt;Rspec&lt;/li&gt;
+&lt;li&gt;Minitest&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Benefits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Small Team&lt;/li&gt;
+&lt;li&gt;Flat Hierarchy&lt;/li&gt;
+&lt;li&gt;Conferences&lt;/li&gt;
+&lt;li&gt;Health Care&lt;/li&gt;
+&lt;li&gt;Salary according with experience&lt;/li&gt;
+&lt;li&gt;Full time position (40 hour week)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Joel test&lt;/h3&gt;
+&lt;p&gt;Answers regarding &lt;a href="http://www.joelonsoftware.com/articles/fog0000000043.html"&gt;Joel test&lt;/a&gt;:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;✓ Do you use source control?
+✗ Can you make a build in one step?
+✓ Do you make daily builds?
+✓ Do you have a bug database?
+✗ Do you fix bugs before writing new code?
+✓ Do you have an up-to-date schedule?
+✗ Do you have a spec?
+✓ Do programmers have quiet working conditions?
+✗ Do you use the best tools money can buy?
+✓ Do you have testers?
+✓ Do new candidates write code during their interview?
+✗ Do you do hallway usability testing?
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h3&gt;Celtec Company&lt;/h3&gt;
+&lt;p&gt;Check our &lt;a href="/about.html"&gt;About&lt;/a&gt; page.&lt;/p&gt;
+&lt;h3&gt;Interested?&lt;/h3&gt;
+&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Full stack developer</title><link href="https://celtec.github.io/full-stack-developer.html" rel="alternate"></link><published>2016-11-07T10:00:00-02:00</published><updated>2016-11-07T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2016-11-07:full-stack-developer.html</id><summary type="html">&lt;h2&gt;Full stack developer&lt;/h2&gt;
 &lt;h4&gt;Responsibilities&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Develop and maintain Ruby applications&lt;/li&gt;
@@ -37,7 +108,6 @@
 &lt;li&gt;Redis&lt;/li&gt;
 &lt;li&gt;Google Maps API&lt;/li&gt;
 &lt;li&gt;Backbone.js&lt;/li&gt;
-&lt;li&gt;Angular.js&lt;/li&gt;
 &lt;li&gt;Sass&lt;/li&gt;
 &lt;li&gt;Git&lt;/li&gt;
 &lt;li&gt;Linux&lt;/li&gt;
@@ -71,5 +141,7 @@
 &lt;/pre&gt;&lt;/div&gt;
 
 
+&lt;h3&gt;Celtec Company&lt;/h3&gt;
+&lt;p&gt;Check our &lt;a href="/about.html"&gt;About&lt;/a&gt; page.&lt;/p&gt;
 &lt;h3&gt;Interested?&lt;/h3&gt;
 &lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</summary></entry></feed>
