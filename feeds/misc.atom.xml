@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Celtec Rastreamento</title><link href="https://celtec.github.io/" rel="alternate"></link><link href="https://celtec.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://celtec.github.io/</id><updated>2016-11-07T10:00:00-02:00</updated><entry><title>About</title><link href="https://celtec.github.io/about.html" rel="alternate"></link><published>2016-11-07T10:00:00-02:00</published><updated>2016-11-07T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2016-11-07:about.html</id><summary type="html">&lt;p&gt;Founded and located in &lt;a href="https://www.google.com.br/maps/place/CELTEC%2FAUTOCARGO/@-27.592772,-48.5950586,17z/data=!3m1!4b1!4m5!3m4!1s0x952737d16a4cd911:0x7ff4d0db88c550e!8m2!3d-27.592772!4d-48.5928699"&gt;Florianópolis, Santa Catarina&lt;/a&gt;, at 1990, Celtec specialized in development of equipments for special vehicles (such as motorhome, ambulances, boats, common use utilities, etc) acquiring know-how in embedded eletronics, vehicular installations and technical assistance in field.&lt;/p&gt;
+&lt;h3&gt;Autocargo&lt;/h3&gt;
+&lt;p&gt;Our main product &lt;a href="https://www2.autocargo.com.br"&gt;Autocargo&lt;/a&gt; started as a desktop application and evolved to a web app some years ago.&lt;/p&gt;
+&lt;p&gt;Autocargo is a platform to track vehicles using GPS, our app is able from displaying positions of vehicles in a map to more complex features such as monitoring trips and managing deliveries.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Office photo" src="images/office_code.jpg" /&gt;&lt;/p&gt;
+&lt;h4&gt;Next steps&lt;/h4&gt;
+&lt;p&gt;We work a lot with geospatial data and currently we're working in new product focused in logistic which is in under beta, validating with some clients.&lt;/p&gt;
+&lt;p&gt;Also we started playing with some Data Science hoping to apply some intelligence specific for each client, generating a kind-of Dashboard for our clients being able making decisions fastly.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h4&gt;Ownership&lt;/h4&gt;
+&lt;p&gt;Your opinion and suggestion are always considered. For these reasons, team members are self-managed having autonomy in decision-making.&lt;/p&gt;
+&lt;h2&gt;Interested?&lt;/h2&gt;
+&lt;p&gt;Check our &lt;a href="https://celtec.github.io/category/open-positions.html"&gt;Open positions&lt;/a&gt; page.&lt;/p&gt;</summary></entry></feed>
