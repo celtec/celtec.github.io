@@ -11,19 +11,19 @@ Category: Open Positions
 
 #### Qualifications
 
-* 2+ years experience working on the backend of a web application
-* Experience writing and using REST APIs
+* 1+ years experience working on the backend of a web application
 * SQL and general database knowledge (we use PostgreSQL)
 * Solid knowledge of testing principles
 * Strong verbal and written communication skills
-* Experience with a configuration management system (we use Chef)
-* Ability to work in GNU/Linux environment.
+* Ability to work in GNU/Linux environment
 * Experience in Version Control Systems is a must, specifically Git
 
 #### Bonus
 
+* Experience writing and using REST APIs
 * Sinatra
 * PostGIS/Geolocation knowledge
+* Experience with a configuration management system (we use Chef)
 * Machine Learning
 * Acceptance tests
 * Client-side testing
