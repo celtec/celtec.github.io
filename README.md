@@ -30,5 +30,5 @@ To stop server just run:
 ```
 pelican content/ -o output/ -s publishconf.py
 ghp-import -b master output/
-git push origin gh-pages
+git push origin master
 ```
