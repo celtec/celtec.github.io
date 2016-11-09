@@ -72,6 +72,11 @@ Answers regarding [Joel test](http://www.joelonsoftware.com/articles/fog00000000
 ✓ Do new candidates write code during their interview?
 ✗ Do you do hallway usability testing?
 ```
+
+### Celtec Company
+
+Check our [About](/about.html) page.
+
 ### Interested?
 
 Mail us with your [LinkedIn](https://linkedin.com) and [Github](https://github.com) profile: [jobs@autocargo.com.br](mailto:jobs@autocargo.com.br)
