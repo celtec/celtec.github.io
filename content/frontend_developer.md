@@ -11,7 +11,7 @@ Category: Open Positions
 
 #### Qualifications
 
-* 2+ years experience working on the backend of a web application
+* 2+ years experience working on the frontend of a web application
 * Solid knowledge of testing principles
 * Strong verbal and written communication skills
 * Ability to work in GNU/Linux environment
