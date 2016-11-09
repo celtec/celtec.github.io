@@ -1,5 +1,5 @@
-Celtec Jobs
-===========
+Celtec Github Site
+==================
 
 Jobs website generated with [Python Pelican](https://github.com/getpelican/pelican) with [Nest theme](https://github.com/molivier/nest).
 
