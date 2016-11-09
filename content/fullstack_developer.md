@@ -56,6 +56,7 @@ Category: Open Positions
 * Health Care
 * Salary according with experience
 * Full time position (40 hour week)
+* OpenLab (Hack day) once a month
 
 ### Joel test
 
