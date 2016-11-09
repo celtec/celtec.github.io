@@ -41,7 +41,6 @@ Category: Open Positions
 * Redis
 * Google Maps API
 * Backbone.js
-* Angular.js
 * Sass
 * Git
 * Linux
