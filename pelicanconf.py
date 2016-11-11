@@ -23,10 +23,13 @@ DISPLAY_CATEGORIES_ON_MENU = False
 
 # Blogroll
 LINKS = (('IVEI', 'https://www.ivei.com.br'),
+         ('Github', 'https://github.com/celtec'),
+         ('Autocargo', 'https://www2.autocargo.com.br')
          )
 
 # Social widget
 SOCIAL = (('Facebook', 'https://www.facebook.com/inteligenciaveicular'),
+          ('Instagram', 'https://www.instagram.com/ivei.veicular')
           )
 
 DEFAULT_PAGINATION = False
