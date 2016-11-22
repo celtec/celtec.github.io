@@ -4,6 +4,6 @@ save_as: 404.html
 url: 404.html
 status: draft
 
-# Not Found
+## Not Found
 
 The requested item could not be located. Perhaps you might want to check [our listing](/).
