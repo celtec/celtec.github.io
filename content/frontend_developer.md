@@ -15,7 +15,7 @@ Category: Open Positions
 * Solid knowledge of testing principles
 * Strong verbal and written communication skills
 * Ability to work in GNU/Linux environment
-* Experience in Version Control Systems is a must, specifically Git
+* Experience in Version Control Systems is a must (`git`)
 
 #### Bonus
 
@@ -51,7 +51,7 @@ Category: Open Positions
 * Flat Hierarchy
 * Conferences
 * Health Care
-* Salary according with experience
+* Salary according with experience (CLT)
 * Full time position (40 hour week)
 * OpenLab (Hack day) once a month
 
@@ -81,5 +81,3 @@ Check our [About](/about.html) page.
 ### Interested?
 
 Mail us with your [LinkedIn](https://linkedin.com) and [Github](https://github.com) profile: [jobs@autocargo.com.br](mailto:jobs@autocargo.com.br)
-
-
