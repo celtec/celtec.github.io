@@ -11,6 +11,12 @@ pip install pelican
 
 For more details, check [Pelican docs](http://docs.getpelican.com/en/stable/install.html)
 
+### Install themes
+
+```
+git clone https://github.com/molivier/nest /your/project/dir/
+pelican-themes --install /path/for/nest/theme
+```
 ## Preview
 
 ```
