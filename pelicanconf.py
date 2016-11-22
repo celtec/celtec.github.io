@@ -22,13 +22,13 @@ AUTHOR_FEED_RSS = None
 DISPLAY_CATEGORIES_ON_MENU = False
 
 # Blogroll
-LINKS = (('IVEI', 'https://www.ivei.com.br'),
+SOCIAL = (('IVEI', 'https://www.ivei.com.br'),
          ('Github', 'https://github.com/celtec'),
          ('Autocargo', 'https://www2.autocargo.com.br')
          )
 
 # Social widget
-SOCIAL = (('LinkedIn', 'https://www.linkedin.com/company/3855537'),
+NEST_SITEMAP_MENU = (('LinkedIn', 'https://www.linkedin.com/company/3855537'),
           ('Facebook', 'https://www.facebook.com/inteligenciaveicular'),
           ('Instagram', 'https://www.instagram.com/ivei.veicular')
           )
@@ -38,21 +38,47 @@ DEFAULT_PAGINATION = False
 THEME = 'nest'
 
 ## NEST TEMPLATE CONF
-SITESUBTITLE = u'Celtec Rastreamento Jobs'
+SITESUBTITLE = u'Celtec Rastreamento'
 # Minified CSS
 NEST_CSS_MINIFY = True
 # Add items to top menu before pages
 MENUITEMS = [('Jobs', '/category/open-positions.html'),('About','/about.html')]
 # Add header background image from content/images : 'background.jpg'
-NEST_HEADER_IMAGES = 'banner-homepage.jpg'
+#NEST_HEADER_IMAGES = 'banner-homepage.jpg'
 NEST_HEADER_LOGO = '/images/logo_celtec.png'
 # Footer
-#NEST_SITEMAP_COLUMN_TITLE = u'Sitemap'
-NEST_SOCIAL_COLUMN_TITLE = u'Social'
-NEST_LINKS_COLUMN_TITLE = u'Links'
+NEST_SITEMAP_COLUMN_TITLE = u'Social'
+NEST_SOCIAL_COLUMN_TITLE = u'Links'
+#NEST_LINKS_COLUMN_TITLE = u'Links'
 NEST_COPYRIGHT = u'&copy; Celtec Rastreamento Jobs'
 # Footer optional
-NEST_FOOTER_HTML = ''
+NEST_FOOTER_HTML = """
+<style type="text/css">
+.header-container {
+    background: #233b6f !important;
+}
+
+.footer.gradient-2 {
+    background-color: #e2e2e2;
+    color: #233b6f;
+    border-top: 1px solid #e2e2e2;
+}
+
+.footer.gradient-2 a {
+    color: #101213;
+}
+</style>
+
+<div style="position:absolute;left:-215px;top:8px">
+    <a href="https://www.ivei.com.br" target="_blank" style="display:block">
+        <img src="/images/logo_ivei.png" title="IVEI" />
+    </a>
+
+    <a href="https://www2.autocargo.com.br" target="_blank" style="display:block;margin-top: 15px">
+        <img src="/images/logo_autocargo.png" title="Autocargo" />
+    </a>
+</div>
+"""
 # index.html
 NEST_INDEX_HEAD_TITLE = u'Homepage'
 NEST_INDEX_HEADER_TITLE = u'Jobs'
@@ -100,7 +126,7 @@ NEST_TAGS_HEADER_SUBTITLE = u'Tags List'
 NEST_TAGS_CONTENT_TITLE = u'Tags List'
 NEST_TAGS_CONTENT_LIST = u'tagged'
 # Static files
-STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico', 'extra/logo.svg']
+STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico', 'extra/custom.css']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
