@@ -28,7 +28,8 @@ LINKS = (('IVEI', 'https://www.ivei.com.br'),
          )
 
 # Social widget
-SOCIAL = (('Facebook', 'https://www.facebook.com/inteligenciaveicular'),
+SOCIAL = (('LinkedIn', 'https://www.linkedin.com/company/3855537'),
+          ('Facebook', 'https://www.facebook.com/inteligenciaveicular'),
           ('Instagram', 'https://www.instagram.com/ivei.veicular')
           )
 
