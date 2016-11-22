@@ -55,7 +55,13 @@ NEST_COPYRIGHT = u'&copy; Celtec Rastreamento LTDA'
 NEST_FOOTER_HTML = """
 <style type="text/css">
 .header-container {
-    background: #233b6f !important;
+    background: #1a233a !important;
+    min-height: 100px;
+    border-bottom: 5px solid #005da9;
+}
+
+.header-wrapper {
+    display: none;
 }
 
 .footer.gradient-2 {

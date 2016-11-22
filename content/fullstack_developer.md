@@ -2,7 +2,7 @@ Title: Full-stack developer
 Date: 2016-11-07 10:00
 Category: Open Positions
 
-## Full-stack developer
+# Full-stack developer
 
 #### Responsibilities
 
