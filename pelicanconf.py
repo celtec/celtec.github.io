@@ -50,7 +50,7 @@ NEST_HEADER_LOGO = '/images/logo_celtec.png'
 NEST_SITEMAP_COLUMN_TITLE = u'Social'
 NEST_SOCIAL_COLUMN_TITLE = u'Links'
 #NEST_LINKS_COLUMN_TITLE = u'Links'
-NEST_COPYRIGHT = u'&copy; Celtec Rastreamento Jobs'
+NEST_COPYRIGHT = u'&copy; Celtec Rastreamento LTDA'
 # Footer optional
 NEST_FOOTER_HTML = """
 <style type="text/css">
