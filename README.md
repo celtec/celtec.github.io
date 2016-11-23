@@ -6,7 +6,8 @@ Jobs website generated with [Python Pelican](https://github.com/getpelican/pelic
 ## Setup
 
 ```
-pip install pelican
+pip install pelican --user
+pip install Markdown --user
 ```
 
 For more details, check [Pelican docs](http://docs.getpelican.com/en/stable/install.html)
@@ -14,8 +15,8 @@ For more details, check [Pelican docs](http://docs.getpelican.com/en/stable/inst
 ### Install themes
 
 ```
-git clone https://github.com/molivier/nest /your/project/dir/
-pelican-themes --install /path/for/nest/theme
+git clone git@github.com:celtec/celtec-custom-nest.git /path/for/celtec/custom/nest/theme
+pelican-themes --install /path/for/celtec/custom/nest/theme
 ```
 ## Preview
 
