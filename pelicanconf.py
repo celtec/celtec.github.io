@@ -22,20 +22,20 @@ AUTHOR_FEED_RSS = None
 DISPLAY_CATEGORIES_ON_MENU = False
 
 # Blogroll
-SOCIAL = (('IVEI', 'https://www.ivei.com.br'),
+LINKS = (('IVEI', 'https://www.ivei.com.br'),
          ('Github', 'https://github.com/celtec'),
          ('Autocargo', 'https://www2.autocargo.com.br')
          )
 
 # Social widget
-NEST_SITEMAP_MENU = (('LinkedIn', 'https://www.linkedin.com/company/3855537'),
+SOCIAL = (('LinkedIn', 'https://www.linkedin.com/company/3855537'),
           ('Facebook', 'https://www.facebook.com/inteligenciaveicular'),
           ('Instagram', 'https://www.instagram.com/ivei.veicular')
           )
 
 DEFAULT_PAGINATION = False
 
-THEME = 'nest'
+THEME = 'celtec-custom-nest'
 
 ## NEST TEMPLATE CONF
 SITESUBTITLE = u'Celtec Rastreamento'
@@ -47,44 +47,12 @@ MENUITEMS = [('Jobs', '/category/open-positions.html'),('About','/about.html')]
 #NEST_HEADER_IMAGES = 'banner-homepage.jpg'
 NEST_HEADER_LOGO = '/images/logo_celtec.png'
 # Footer
-NEST_SITEMAP_COLUMN_TITLE = u'Social'
-NEST_SOCIAL_COLUMN_TITLE = u'Links'
-#NEST_LINKS_COLUMN_TITLE = u'Links'
+NEST_SOCIAL_COLUMN_TITLE = u'Social'
+NEST_LINKS_COLUMN_TITLE = u'Links'
 NEST_COPYRIGHT = u'&copy; Celtec Rastreamento LTDA'
 # Footer optional
-NEST_FOOTER_HTML = """
-<style type="text/css">
-.header-container {
-    background: #1a233a !important;
-    min-height: 100px;
-    border-bottom: 5px solid #005da9;
-}
+NEST_FOOTER_HTML = ""
 
-.header-wrapper {
-    display: none;
-}
-
-.footer.gradient-2 {
-    background-color: #e2e2e2;
-    color: #233b6f;
-    border-top: 1px solid #b5b5b5;
-}
-
-.footer.gradient-2 a {
-    color: #101213;
-}
-</style>
-
-<div style="position:absolute;left:-215px;top:8px">
-    <a href="https://www.ivei.com.br" target="_blank" style="display:block">
-        <img src="/images/logo_ivei.png" title="IVEI" />
-    </a>
-
-    <a href="https://www2.autocargo.com.br" target="_blank" style="display:block;margin-top: 15px">
-        <img src="/images/logo_autocargo.png" title="Autocargo" />
-    </a>
-</div>
-"""
 # index.html
 NEST_INDEX_HEAD_TITLE = u'Homepage'
 NEST_INDEX_HEADER_TITLE = u'Jobs'
