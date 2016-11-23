@@ -16,8 +16,11 @@ For more details, check [Pelican docs](http://docs.getpelican.com/en/stable/inst
 
 ```
 git clone git@github.com:celtec/celtec-custom-nest.git /path/for/celtec/custom/nest/theme
-pelican-themes --install /path/for/celtec/custom/nest/theme
+pelican-themes -s /path/for/celtec/custom/nest/theme
 ```
+
+This will symlink our custom theme with `pelican`.
+
 ## Preview
 
 ```
