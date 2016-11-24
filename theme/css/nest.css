@@ -384,3 +384,13 @@ blockquote{
 .footer a{
     color: #101213;
 }
+
+/* Footer Logos */
+.footer .logos-wrapper {
+  padding: 0;
+}
+
+.footer .logos-wrapper li {
+  list-style: none;
+  margin-bottom: 15px;
+}
