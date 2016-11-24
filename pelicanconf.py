@@ -33,6 +33,18 @@ SOCIAL = (('LinkedIn', 'https://www.linkedin.com/company/3855537'),
           ('Instagram', 'https://www.instagram.com/ivei.veicular')
           )
 
+LOGOS = ({
+    'title': 'IVEI',
+    'filename': 'logo_ivei.png',
+    'url': 'https://www.ivei.com.br'
+    }, {
+        'title': 'Autocargo',
+        'filename': 'logo_autocargo.png',
+        'url': 'https://www2.autocargo.com.br'
+        }
+    )
+
+
 DEFAULT_PAGINATION = False
 
 THEME = 'celtec-custom-nest'
