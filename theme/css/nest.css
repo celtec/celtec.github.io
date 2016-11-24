@@ -4,6 +4,22 @@
  * Licensed under Apache V2 (https://github.com/molivier/nest/blob/master/LICENSE)
  */
 
+/* Sticky footer */
+html,
+body,
+.page-container {
+  height: 100%;
+}
+
+body > .page-container {
+  height: auto;
+  min-height: 100%;
+}
+
+.content-container {
+  padding-bottom: 190px;
+}
+
 /* Responsive */
 @media (min-width: 768px) {
   .container {
@@ -230,6 +246,7 @@ h4:after {
     padding-bottom: 40px;
     padding-left: 40px;
     padding-right: 40px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
     border-left: 1px solid rgba(0,0,0,0.1);
     border-right: 1px solid rgba(0,0,0,0.1);
 }
@@ -369,6 +386,11 @@ blockquote{
     font-size: 14px;
     font-weight: 300;
     text-align: left;
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 165px;
+    margin-top: -165px;
 }
 
 .footer-title {
