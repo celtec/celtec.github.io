@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Celtec Rastreamento</title><link href="https://celtec.github.io/" rel="alternate"></link><link href="https://celtec.github.io/feeds/open-positions.atom.xml" rel="self"></link><id>https://celtec.github.io/</id><updated>2016-11-09T10:00:00-02:00</updated><entry><title>Front-end developer</title><link href="https://celtec.github.io/front-end-developer.html" rel="alternate"></link><published>2016-11-09T10:00:00-02:00</published><updated>2016-11-09T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2016-11-09:front-end-developer.html</id><summary type="html">&lt;h2&gt;Front-end developer&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Celtec Rastreamento</title><link href="https://celtec.github.io/" rel="alternate"></link><link href="https://celtec.github.io/feeds/open-positions.atom.xml" rel="self"></link><id>https://celtec.github.io/</id><updated>2016-11-09T10:00:00-02:00</updated><entry><title>Front-end developer</title><link href="https://celtec.github.io/front-end-developer.html" rel="alternate"></link><updated>2016-11-09T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2016-11-09:front-end-developer.html</id><summary type="html">&lt;h2&gt;Front-end developer&lt;/h2&gt;
 &lt;h4&gt;Responsibilities&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Develop and maintain client-side in Ruby on Rails applications&lt;/li&gt;
@@ -53,25 +53,25 @@
 &lt;/ul&gt;
 &lt;h3&gt;Joel test&lt;/h3&gt;
 &lt;p&gt;Answers regarding &lt;a href="http://www.joelonsoftware.com/articles/fog0000000043.html"&gt;Joel test&lt;/a&gt;:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;✓ Do you use source control?
-✗ Can you make a build in one step?
-✓ Do you make daily builds?
-✓ Do you have a bug database?
-✗ Do you fix bugs before writing new code?
-✓ Do you have an up-to-date schedule?
-✗ Do you have a spec?
-✓ Do programmers have quiet working conditions?
-✗ Do you use the best tools money can buy?
-✓ Do you have testers?
-✓ Do new candidates write code during their interview?
-✗ Do you do hallway usability testing?
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;✓&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt; &lt;span class="n"&gt;source&lt;/span&gt; &lt;span class="n"&gt;control&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✗&lt;/span&gt; &lt;span class="n"&gt;Can&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;build&lt;/span&gt; &lt;span class="n"&gt;in&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt; &lt;span class="n"&gt;step&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✓&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt; &lt;span class="n"&gt;daily&lt;/span&gt; &lt;span class="n"&gt;builds&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✓&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;bug&lt;/span&gt; &lt;span class="n"&gt;database&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✗&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;fix&lt;/span&gt; &lt;span class="n"&gt;bugs&lt;/span&gt; &lt;span class="n"&gt;before&lt;/span&gt; &lt;span class="n"&gt;writing&lt;/span&gt; &lt;span class="n"&gt;new&lt;/span&gt; &lt;span class="n"&gt;code&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✓&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;up&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;to&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;date&lt;/span&gt; &lt;span class="n"&gt;schedule&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✗&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;spec&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✓&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;programmers&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;quiet&lt;/span&gt; &lt;span class="n"&gt;working&lt;/span&gt; &lt;span class="n"&gt;conditions&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✗&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;best&lt;/span&gt; &lt;span class="n"&gt;tools&lt;/span&gt; &lt;span class="n"&gt;money&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;buy&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✓&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;testers&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✓&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;new&lt;/span&gt; &lt;span class="n"&gt;candidates&lt;/span&gt; &lt;span class="n"&gt;write&lt;/span&gt; &lt;span class="n"&gt;code&lt;/span&gt; &lt;span class="n"&gt;during&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;interview&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✗&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt; &lt;span class="n"&gt;hallway&lt;/span&gt; &lt;span class="n"&gt;usability&lt;/span&gt; &lt;span class="n"&gt;testing&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;h3&gt;Celtec Company&lt;/h3&gt;
 &lt;p&gt;Check our &lt;a href="/about.html"&gt;About&lt;/a&gt; page.&lt;/p&gt;
 &lt;h3&gt;Interested?&lt;/h3&gt;
-&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Full-stack developer</title><link href="https://celtec.github.io/full-stack-developer.html" rel="alternate"></link><published>2016-11-07T10:00:00-02:00</published><updated>2016-11-07T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2016-11-07:full-stack-developer.html</id><summary type="html">&lt;h2&gt;Full-stack developer&lt;/h2&gt;
+&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>Full-stack developer</title><link href="https://celtec.github.io/full-stack-developer.html" rel="alternate"></link><updated>2016-11-07T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2016-11-07:full-stack-developer.html</id><summary type="html">&lt;h2&gt;Full-stack developer&lt;/h2&gt;
 &lt;h4&gt;Responsibilities&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Develop and maintain Ruby applications&lt;/li&gt;
@@ -128,18 +128,18 @@
 &lt;/ul&gt;
 &lt;h3&gt;Joel test&lt;/h3&gt;
 &lt;p&gt;Answers regarding &lt;a href="http://www.joelonsoftware.com/articles/fog0000000043.html"&gt;Joel test&lt;/a&gt;:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;✓ Do you use source control?
-✗ Can you make a build in one step?
-✓ Do you make daily builds?
-✓ Do you have a bug database?
-✗ Do you fix bugs before writing new code?
-✓ Do you have an up-to-date schedule?
-✗ Do you have a spec?
-✓ Do programmers have quiet working conditions?
-✗ Do you use the best tools money can buy?
-✓ Do you have testers?
-✓ Do new candidates write code during their interview?
-✗ Do you do hallway usability testing?
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;✓&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt; &lt;span class="n"&gt;source&lt;/span&gt; &lt;span class="n"&gt;control&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✗&lt;/span&gt; &lt;span class="n"&gt;Can&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;build&lt;/span&gt; &lt;span class="n"&gt;in&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt; &lt;span class="n"&gt;step&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✓&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt; &lt;span class="n"&gt;daily&lt;/span&gt; &lt;span class="n"&gt;builds&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✓&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;bug&lt;/span&gt; &lt;span class="n"&gt;database&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✗&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;fix&lt;/span&gt; &lt;span class="n"&gt;bugs&lt;/span&gt; &lt;span class="n"&gt;before&lt;/span&gt; &lt;span class="n"&gt;writing&lt;/span&gt; &lt;span class="n"&gt;new&lt;/span&gt; &lt;span class="n"&gt;code&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✓&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;up&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;to&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;date&lt;/span&gt; &lt;span class="n"&gt;schedule&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✗&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;spec&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✓&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;programmers&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;quiet&lt;/span&gt; &lt;span class="n"&gt;working&lt;/span&gt; &lt;span class="n"&gt;conditions&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✗&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;best&lt;/span&gt; &lt;span class="n"&gt;tools&lt;/span&gt; &lt;span class="n"&gt;money&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;buy&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✓&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;testers&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✓&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;new&lt;/span&gt; &lt;span class="n"&gt;candidates&lt;/span&gt; &lt;span class="n"&gt;write&lt;/span&gt; &lt;span class="n"&gt;code&lt;/span&gt; &lt;span class="n"&gt;during&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;interview&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
+&lt;span class="err"&gt;✗&lt;/span&gt; &lt;span class="n"&gt;Do&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt; &lt;span class="n"&gt;hallway&lt;/span&gt; &lt;span class="n"&gt;usability&lt;/span&gt; &lt;span class="n"&gt;testing&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
