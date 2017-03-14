@@ -1,8 +1,8 @@
-Title: Front-end developer
+Title: [closed] Front-end developer
 Date: 2016-11-09 10:00
 Category: Open Positions
 
-## Front-end developer
+## [closed] Front-end developer
 
 #### Responsibilities
 

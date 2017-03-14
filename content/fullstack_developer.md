@@ -1,8 +1,8 @@
-Title: Full-stack developer
+Title: [closed] Full-stack developer
 Date: 2016-11-07 10:00
 Category: Open Positions
 
-## Full-stack developer
+## [closed] Full-stack developer
 
 #### Responsibilities
 
