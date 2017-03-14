@@ -4,12 +4,12 @@ status: draft
 save_as: index.html
 tags: Autocargo, IVEI, Celtec Rastreamento
 
-## We're hiring
+## Jobs
 
-* [Front-end developer](|filename|frontend_developer.md)
-* [Full-stack developer](|filename|fullstack_developer.md)
+* [[closed] Front-end developer](|filename|frontend_developer.md)
+* [[closed] Full-stack developer](|filename|fullstack_developer.md)
 
-Check our [Open positions](|category|open-positions) page.
+Check our [Jobs](|category|open-positions) page.
 
 <br />
 <br />
