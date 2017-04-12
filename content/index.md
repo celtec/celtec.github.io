@@ -6,6 +6,7 @@ tags: Autocargo, IVEI, Celtec Rastreamento
 
 ## Jobs
 
+* [Jr. developer](|filename|jr_developer.md)
 * [[closed] Front-end developer](|filename|frontend_developer.md)
 * [[closed] Full-stack developer](|filename|fullstack_developer.md)
 
