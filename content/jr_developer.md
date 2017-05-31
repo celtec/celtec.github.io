@@ -1,8 +1,8 @@
-Title: Jr. developer
+Title: [closed] Jr. developer
 Date: 2017-04-12 18:00
 Category: Open Positions
 
-## Jr. developer
+## [closed] Jr. developer
 
 #### Responsibilities
 
