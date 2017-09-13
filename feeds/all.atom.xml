@@ -1,5 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Celtec Rastreamento</title><link href="https://celtec.github.io/" rel="alternate"></link><link href="https://celtec.github.io/feeds/all.atom.xml" rel="self"></link><id>https://celtec.github.io/</id><updated>2017-04-12T18:00:00-03:00</updated><entry><title>[closed] Jr. developer</title><link href="https://celtec.github.io/closed-jr-developer.html" rel="alternate"></link><published>2017-04-12T18:00:00-03:00</published><updated>2017-04-12T18:00:00-03:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2017-04-12:closed-jr-developer.html</id><summary type="html">&lt;h2&gt;[closed] Jr. developer&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Celtec Rastreamento</title><link href="https://celtec.github.io/" rel="alternate"></link><link href="https://celtec.github.io/feeds/all.atom.xml" rel="self"></link><id>https://celtec.github.io/</id><updated>2017-09-01T10:00:00-03:00</updated><entry><title>Senior full-stack developer</title><link href="https://celtec.github.io/senior-full-stack-developer.html" rel="alternate"></link><published>2017-09-01T10:00:00-03:00</published><updated>2017-09-01T10:00:00-03:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2017-09-01:/senior-full-stack-developer.html</id><summary type="html">&lt;h2&gt;Senior full-stack developer&lt;/h2&gt;
+&lt;h4&gt;Responsibilities&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop and maintain Ruby applications&lt;/li&gt;
+&lt;li&gt;Writing and reviewing application code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Qualifications&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;3+ years experience working on development of a web application&lt;/li&gt;
+&lt;li&gt;SQL and general database knowledge (we use PostgreSQL with PostGIS)&lt;/li&gt;
+&lt;li&gt;Solid knowledge of testing principles (RSpec, Minitest)&lt;/li&gt;
+&lt;li&gt;Strong verbal and written communication skills&lt;/li&gt;
+&lt;li&gt;Ability to …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Senior full-stack developer&lt;/h2&gt;
+&lt;h4&gt;Responsibilities&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop and maintain Ruby applications&lt;/li&gt;
+&lt;li&gt;Writing and reviewing application code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Qualifications&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;3+ years experience working on development of a web application&lt;/li&gt;
+&lt;li&gt;SQL and general database knowledge (we use PostgreSQL with PostGIS)&lt;/li&gt;
+&lt;li&gt;Solid knowledge of testing principles (RSpec, Minitest)&lt;/li&gt;
+&lt;li&gt;Strong verbal and written communication skills&lt;/li&gt;
+&lt;li&gt;Ability to work in GNU/Linux environment&lt;/li&gt;
+&lt;li&gt;Experience in Version Control Systems is a must (&lt;code&gt;git&lt;/code&gt; specifically)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Bonus&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience writing and using REST APIs&lt;/li&gt;
+&lt;li&gt;Sinatra&lt;/li&gt;
+&lt;li&gt;PostGIS/Geolocation knowledge&lt;/li&gt;
+&lt;li&gt;Experience with a configuration management system&lt;/li&gt;
+&lt;li&gt;Machine Learning&lt;/li&gt;
+&lt;li&gt;Acceptance tests&lt;/li&gt;
+&lt;li&gt;Client-side testing&lt;/li&gt;
+&lt;li&gt;Big Data&lt;/li&gt;
+&lt;li&gt;Azure&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Our stack&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ruby&lt;/li&gt;
+&lt;li&gt;Rails&lt;/li&gt;
+&lt;li&gt;Sinatra&lt;/li&gt;
+&lt;li&gt;PostgreSQL and PostGIS&lt;/li&gt;
+&lt;li&gt;Javascript&lt;/li&gt;
+&lt;li&gt;Coffeescript&lt;/li&gt;
+&lt;li&gt;RabbitMQ&lt;/li&gt;
+&lt;li&gt;Resque&lt;/li&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;li&gt;Google Maps API&lt;/li&gt;
+&lt;li&gt;Backbone.js&lt;/li&gt;
+&lt;li&gt;Sass&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;Linux&lt;/li&gt;
+&lt;li&gt;RSpec&lt;/li&gt;
+&lt;li&gt;Minitest&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Benefits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Small Team&lt;/li&gt;
+&lt;li&gt;Flat Hierarchy&lt;/li&gt;
+&lt;li&gt;Conferences&lt;/li&gt;
+&lt;li&gt;Health Care&lt;/li&gt;
+&lt;li&gt;Salary according with experience (CLT)&lt;/li&gt;
+&lt;li&gt;Full time position (40 hour week)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Joel test&lt;/h3&gt;
+&lt;p&gt;Answers regarding &lt;a href="http://www.joelonsoftware.com/articles/fog0000000043.html"&gt;Joel test&lt;/a&gt; followed by &lt;a href="https://myers.io/2017/04/04/the-joel-test-for-2017/"&gt;2017 version&lt;/a&gt;:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;✓ Do you use source control?
+✗ Can you make a build in one step?
+✓ Do you make daily builds?
+✓ Do you have a bug database?
+✗ Do you fix bugs before writing new code?
+✓ Do you have an up-to-date schedule?
+✗ Do you have a spec?
+✓ Do programmers have quiet working conditions?
+✗ Do you use the best tools money can buy?
+✓ Do you have testers?
+✓ Do new candidates write code during their interview?
+✗ Do you do hallway usability testing?
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;2017 version&lt;/h4&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;✓ Are all builds handled automatically by a Continuous Integration server?
+✗ Do you make and use daily builds?
+✓ Do you use an issue tracker?
+✗ Do you fix bugs before writing new code?
+✓ Do you have an up-to-date schedule?
+✗ Do you have up to date information on your products performance and usage?
+✗ Do you use the best tools money can buy?
+✓ Do you have a comprehensive test plan?
+✗ Do you have dedicated UI and UX designers?
+✓ Does all code go through code review?
+✓ Do you have coding standards?
+✓ Are new employees given training?
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h3&gt;Celtec Company&lt;/h3&gt;
+&lt;p&gt;Check our &lt;a href="/about.html"&gt;About&lt;/a&gt; page.&lt;/p&gt;
+&lt;h3&gt;Interested?&lt;/h3&gt;
+&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>[closed] Jr. developer</title><link href="https://celtec.github.io/closed-jr-developer.html" rel="alternate"></link><published>2017-04-12T18:00:00-03:00</published><updated>2017-04-12T18:00:00-03:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2017-04-12:/closed-jr-developer.html</id><summary type="html">&lt;h2&gt;[closed] Jr. developer&lt;/h2&gt;
+&lt;h4&gt;Responsibilities&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop and maintain Ruby applications&lt;/li&gt;
+&lt;li&gt;Writing and reviewing application code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Qualifications&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming logic&lt;/li&gt;
+&lt;li&gt;SQL or basic database knowledge (we use PostgreSQL)&lt;/li&gt;
+&lt;li&gt;Strong verbal and written communication skills&lt;/li&gt;
+&lt;li&gt;Experience in &lt;code&gt;git&lt;/code&gt; or any VCS (Version Control Systems)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Bonus&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Ruby/Rails&lt;/li&gt;
+&lt;li&gt;Javascript&lt;/li&gt;
+&lt;li&gt;Testing principles&lt;/li&gt;
+&lt;li&gt;Ability to work in …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;[closed] Jr. developer&lt;/h2&gt;
 &lt;h4&gt;Responsibilities&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Develop and maintain Ruby applications&lt;/li&gt;
@@ -69,7 +191,19 @@
 &lt;h3&gt;Celtec Company&lt;/h3&gt;
 &lt;p&gt;Check our &lt;a href="/about.html"&gt;About&lt;/a&gt; page.&lt;/p&gt;
 &lt;h3&gt;Interested?&lt;/h3&gt;
-&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>[closed] Front-end developer</title><link href="https://celtec.github.io/closed-front-end-developer.html" rel="alternate"></link><published>2016-11-09T10:00:00-02:00</published><updated>2016-11-09T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2016-11-09:closed-front-end-developer.html</id><summary type="html">&lt;h2&gt;[closed] Front-end developer&lt;/h2&gt;
+&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>[closed] Front-end developer</title><link href="https://celtec.github.io/closed-front-end-developer.html" rel="alternate"></link><published>2016-11-09T10:00:00-02:00</published><updated>2016-11-09T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2016-11-09:/closed-front-end-developer.html</id><summary type="html">&lt;h2&gt;[closed] Front-end developer&lt;/h2&gt;
+&lt;h4&gt;Responsibilities&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop and maintain client-side in Ruby on Rails applications&lt;/li&gt;
+&lt;li&gt;Writing and reviewing application code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Qualifications&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;2+ years experience working on the frontend of a web application&lt;/li&gt;
+&lt;li&gt;Solid knowledge of testing principles&lt;/li&gt;
+&lt;li&gt;Strong verbal and written communication skills&lt;/li&gt;
+&lt;li&gt;Ability to work in GNU/Linux environment&lt;/li&gt;
+&lt;li&gt;Experience in …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;[closed] Front-end developer&lt;/h2&gt;
 &lt;h4&gt;Responsibilities&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Develop and maintain client-side in Ruby on Rails applications&lt;/li&gt;
@@ -141,7 +275,19 @@
 &lt;h3&gt;Celtec Company&lt;/h3&gt;
 &lt;p&gt;Check our &lt;a href="/about.html"&gt;About&lt;/a&gt; page.&lt;/p&gt;
 &lt;h3&gt;Interested?&lt;/h3&gt;
-&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>[closed] Full-stack developer</title><link href="https://celtec.github.io/closed-full-stack-developer.html" rel="alternate"></link><published>2016-11-07T10:00:00-02:00</published><updated>2016-11-07T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2016-11-07:closed-full-stack-developer.html</id><summary type="html">&lt;h2&gt;[closed] Full-stack developer&lt;/h2&gt;
+&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>[closed] Full-stack developer</title><link href="https://celtec.github.io/closed-full-stack-developer.html" rel="alternate"></link><published>2016-11-07T10:00:00-02:00</published><updated>2016-11-07T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2016-11-07:/closed-full-stack-developer.html</id><summary type="html">&lt;h2&gt;[closed] Full-stack developer&lt;/h2&gt;
+&lt;h4&gt;Responsibilities&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop and maintain Ruby applications&lt;/li&gt;
+&lt;li&gt;Writing and reviewing application code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Qualifications&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;1+ year experience working on the backend of a web application&lt;/li&gt;
+&lt;li&gt;SQL and general database knowledge (we use PostgreSQL)&lt;/li&gt;
+&lt;li&gt;Solid knowledge of testing principles&lt;/li&gt;
+&lt;li&gt;Strong verbal and written communication skills&lt;/li&gt;
+&lt;li&gt;Ability to work in GNU …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;[closed] Full-stack developer&lt;/h2&gt;
 &lt;h4&gt;Responsibilities&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Develop and maintain Ruby applications&lt;/li&gt;
@@ -216,4 +362,4 @@
 &lt;h3&gt;Celtec Company&lt;/h3&gt;
 &lt;p&gt;Check our &lt;a href="/about.html"&gt;About&lt;/a&gt; page.&lt;/p&gt;
 &lt;h3&gt;Interested?&lt;/h3&gt;
-&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</summary></entry></feed>
+&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</content></entry></feed>
