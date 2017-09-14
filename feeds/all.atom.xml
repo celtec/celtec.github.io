@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Celtec Rastreamento</title><link href="http://celtec.github.io/" rel="alternate"></link><link href="http://celtec.github.io/feeds/all.atom.xml" rel="self"></link><id>http://celtec.github.io/</id><updated>2017-09-01T10:00:00-03:00</updated><entry><title>Senior full-stack developer</title><link href="http://celtec.github.io/senior-full-stack-developer.html" rel="alternate"></link><published>2017-09-01T10:00:00-03:00</published><updated>2017-09-01T10:00:00-03:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2017-09-01:/senior-full-stack-developer.html</id><summary type="html">&lt;h2&gt;Senior full-stack developer&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Celtec Rastreamento</title><link href="http://celtec.com.br/" rel="alternate"></link><link href="http://celtec.com.br/feeds/all.atom.xml" rel="self"></link><id>http://celtec.com.br/</id><updated>2017-09-01T10:00:00-03:00</updated><entry><title>Senior full-stack developer</title><link href="http://celtec.com.br/senior-full-stack-developer.html" rel="alternate"></link><published>2017-09-01T10:00:00-03:00</published><updated>2017-09-01T10:00:00-03:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.com.br,2017-09-01:/senior-full-stack-developer.html</id><summary type="html">&lt;h2&gt;Senior full-stack developer&lt;/h2&gt;
 &lt;h4&gt;Responsibilities&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Develop and maintain Ruby applications&lt;/li&gt;
@@ -105,7 +105,7 @@
 &lt;h3&gt;Celtec Company&lt;/h3&gt;
 &lt;p&gt;Check our &lt;a href="/about.html"&gt;About&lt;/a&gt; page.&lt;/p&gt;
 &lt;h3&gt;Interested?&lt;/h3&gt;
-&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>[closed] Jr. developer</title><link href="http://celtec.github.io/closed-jr-developer.html" rel="alternate"></link><published>2017-04-12T18:00:00-03:00</published><updated>2017-04-12T18:00:00-03:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2017-04-12:/closed-jr-developer.html</id><summary type="html">&lt;h2&gt;[closed] Jr. developer&lt;/h2&gt;
+&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>[closed] Jr. developer</title><link href="http://celtec.com.br/closed-jr-developer.html" rel="alternate"></link><published>2017-04-12T18:00:00-03:00</published><updated>2017-04-12T18:00:00-03:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.com.br,2017-04-12:/closed-jr-developer.html</id><summary type="html">&lt;h2&gt;[closed] Jr. developer&lt;/h2&gt;
 &lt;h4&gt;Responsibilities&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Develop and maintain Ruby applications&lt;/li&gt;
@@ -193,7 +193,7 @@
 &lt;h3&gt;Celtec Company&lt;/h3&gt;
 &lt;p&gt;Check our &lt;a href="/about.html"&gt;About&lt;/a&gt; page.&lt;/p&gt;
 &lt;h3&gt;Interested?&lt;/h3&gt;
-&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>[closed] Front-end developer</title><link href="http://celtec.github.io/closed-front-end-developer.html" rel="alternate"></link><published>2016-11-09T10:00:00-02:00</published><updated>2016-11-09T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2016-11-09:/closed-front-end-developer.html</id><summary type="html">&lt;h2&gt;[closed] Front-end developer&lt;/h2&gt;
+&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>[closed] Front-end developer</title><link href="http://celtec.com.br/closed-front-end-developer.html" rel="alternate"></link><published>2016-11-09T10:00:00-02:00</published><updated>2016-11-09T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.com.br,2016-11-09:/closed-front-end-developer.html</id><summary type="html">&lt;h2&gt;[closed] Front-end developer&lt;/h2&gt;
 &lt;h4&gt;Responsibilities&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Develop and maintain client-side in Ruby on Rails applications&lt;/li&gt;
@@ -277,7 +277,7 @@
 &lt;h3&gt;Celtec Company&lt;/h3&gt;
 &lt;p&gt;Check our &lt;a href="/about.html"&gt;About&lt;/a&gt; page.&lt;/p&gt;
 &lt;h3&gt;Interested?&lt;/h3&gt;
-&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>[closed] Full-stack developer</title><link href="http://celtec.github.io/closed-full-stack-developer.html" rel="alternate"></link><published>2016-11-07T10:00:00-02:00</published><updated>2016-11-07T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.github.io,2016-11-07:/closed-full-stack-developer.html</id><summary type="html">&lt;h2&gt;[closed] Full-stack developer&lt;/h2&gt;
+&lt;p&gt;Mail us with your &lt;a href="https://linkedin.com"&gt;LinkedIn&lt;/a&gt; and &lt;a href="https://github.com"&gt;Github&lt;/a&gt; profile: &lt;a href="mailto:jobs@autocargo.com.br"&gt;jobs@autocargo.com.br&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>[closed] Full-stack developer</title><link href="http://celtec.com.br/closed-full-stack-developer.html" rel="alternate"></link><published>2016-11-07T10:00:00-02:00</published><updated>2016-11-07T10:00:00-02:00</updated><author><name>Celtec Rastreamento</name></author><id>tag:celtec.com.br,2016-11-07:/closed-full-stack-developer.html</id><summary type="html">&lt;h2&gt;[closed] Full-stack developer&lt;/h2&gt;
 &lt;h4&gt;Responsibilities&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Develop and maintain Ruby applications&lt;/li&gt;
