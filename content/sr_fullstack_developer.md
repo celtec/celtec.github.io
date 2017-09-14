@@ -23,12 +23,13 @@ Category: Open Positions
 * Experience writing and using REST APIs
 * Sinatra
 * PostGIS/Geolocation knowledge
-* Experience with a configuration management system
+* Experience with a configuration management system (Chef, Puppet, Salt or Ansible)
 * Machine Learning
 * Acceptance tests
 * Client-side testing
 * Big Data
 * Azure
+* Experience with Angular, React or Vue
 
 #### Our stack
 
@@ -36,13 +37,14 @@ Category: Open Positions
 * Rails
 * Sinatra
 * PostgreSQL and PostGIS
-* Javascript
-* Coffeescript
 * RabbitMQ
 * Resque
 * Redis
-* Google Maps API
+* Javascript
+* Coffeescript
 * Backbone.js
+* Google Maps API
+* Haml
 * Sass
 * Git
 * Linux
